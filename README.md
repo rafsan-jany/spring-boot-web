@@ -2,7 +2,7 @@
 These are very basic steps for creating a **Spring Boot** web project using **Eclipse IDE** and **Spring Starter Project** for beginners. Spring Starter makes it easy to create a Spring Boot project with Dependencies.  These steps also demonstrate how to add **STS** to the **Eclipse IDE** and create a simple Spring Boot Web application by adding spring web dependency. <br/>
 
 ## STEPS
-**1.** Download [(Eclipse)](https://www.eclipse.org/downloads/) and double click to install the **Eclipse IDE** .![image](https://user-images.githubusercontent.com/27615818/126045310-9a0fbd07-cc9d-4d9c-a508-0f84307cd5b9.png)
+**1.** Download [(Eclipse)](https://www.eclipse.org/downloads/) and double click to install the **Eclipse IDE** .![image](https://user-images.githubusercontent.com/27615818/126045310-9a0fbd07-cc9d-4d9c-a508-0f84307cd5b9.png) <br/>
 **2.** After completing the installation double on the desktop icon to run **Eclipse IDE**. <br/>
 **3.** Click on **Help** from Eclipse IDE Menubar, then select **Eclipse Marketplace**. <br/>
 ![Screenshot_5](https://user-images.githubusercontent.com/27615818/124958610-28142300-e03c-11eb-9ab0-718cf3c9767f.png) <br/>
